@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Demo Repository
+Hello world, meet my first repository.
